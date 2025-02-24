@@ -1,4 +1,9 @@
 ## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://octodex.github.com/images/yogitocat.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://octodex.github.com/images/universetocat.png">
+ <img alt="Imagen de título" src="https://octodex.github.com/images/manufacturetocat.png">
+</picture>
 
 <!--
 **YamanquiChacala/YamanquiChacala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
