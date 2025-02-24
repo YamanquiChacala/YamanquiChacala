@@ -1,4 +1,4 @@
-## Hi there 👋
+## ¡Hola! 👋
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://octodex.github.com/images/yogitocat.png" width=200>
  <source media="(prefers-color-scheme: light)" srcset="https://octodex.github.com/images/universetocat.png" width=200>
@@ -26,6 +26,24 @@ que mis alumnos también puedan usarlo.
 | 20%          | Ruby        |
 | 30%          | Bash        |
 </details>
+
+### Familia
+```mermaid
+flowchart TD
+    A[Mariantonieta] --> C[Yamanqui]
+    B[Ricardo] --> C
+    D[Juan] --> A
+    E[Sofía] --> A
+    F[Juan] --> B
+    G[Lucila] --> B
+```
+
+### Matáticas
+
+Mi número favorito es $e$
+
+Mi fórmula favorita es  
+$$e^{i\pi}$$
 
 ---
 > No quiero la importalidad a través de mi trabajo, quiero la importalidad no muriendo.
