@@ -38,7 +38,7 @@ flowchart TD
     G[Lucila] --> B
 ```
 
-### Matáticas
+### Matemáticas
 
 Mi número favorito es $e$
 
