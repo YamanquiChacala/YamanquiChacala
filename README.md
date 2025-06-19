@@ -1,16 +1,5 @@
-# Titulo principal
-## Hola a todos 👋 🍕 😸 😿
-### Subtitulo
-#### Titulito
+# Yamanqui García Rosales
+### Maestro de tecnología
 
-Soy Yamanqui, su maestro de:
-
-- Matemáticas
-- Computación
-- Mathetics
-
-## Imágenes
-
-Aquí va una imágen:
-![](https://www.cetys.mx/noticias/wp-content/uploads/2017/07/Portada_Mate.jpg)
-
+Hola 👋, soy Yamanqui:
+![](https://avatars.githubusercontent.com/u/11068273?v=4)
